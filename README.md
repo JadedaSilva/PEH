@@ -15,5 +15,3 @@ Optional courses, which may add value, include:
 
 4. Linux Privilege Escalation for Beginners
 5. Windows Privilege Escalation for Beginners
-
-This is just the PEH, later will be uploading the rest of my notes for the rest of the course material for PNPT.
